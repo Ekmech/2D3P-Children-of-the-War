@@ -108,8 +108,7 @@ Alınan kararlar:
   ![Screenshot 2]()
   ![Screenshot 3]()
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+Alınan kararlar: 
 
 - **Sprint Retrospective:**
 
