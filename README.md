@@ -1,3 +1,30 @@
-# 2D3P 
+Takım İsmi
+2D3P
+Oyun İle İlgili Bilgiler 
 ---------------------------------------------------------------
-We are currently developing a game called Children Of The War
+Takım Elemanları
+---------------------------------------------------------------
+Emircan Çelik: Project Owner/Developer
+Hanzade Erdoğan: Scrum Master/Designer
+Yusuf Yılmaz: Developer
+Berin Yüce Uzun: Designer
+Egemen Kulatu: Developer
+---------------------------------------------------------------
+Oyun İsmi
+---------------------------------------------------------------
+Children Of The War
+---------------------------------------------------------------
+Produckt Backlog
+
+
+---------------------------------------------------------------
+Oyunun Hikayesi
+
+
+
+
+
+
+
+---------------------------------------------------------------
+
