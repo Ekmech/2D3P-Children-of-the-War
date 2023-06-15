@@ -2,7 +2,6 @@
 2D3P
 # Oyun İle İlgili Bilgiler
 
----------------------------------------------------------------
 Takım Elemanları
 ---------------------------------------------------------------
 Emircan Çelik: Project Owner/Developer
