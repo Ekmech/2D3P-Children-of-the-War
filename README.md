@@ -4,11 +4,11 @@
 
 ## Takım Elemanları
 
--Emircan Çelik: Project Owner/Developer
--Hanzade Erdoğan: Scrum Master/Designer
--Yusuf Yılmaz: Developer
--Berin Yüce Uzun: Designer
--Egemen Kulatu: Developer
+- Emircan Çelik: Project Owner/Developer
+- Hanzade Erdoğan: Scrum Master/Designer
+- Yusuf Yılmaz: Developer
+- Berin Yüce Uzun: Designer
+- Egemen Kulatu: Developer
 
 ## Oyun İsmi
 -------------------------------
