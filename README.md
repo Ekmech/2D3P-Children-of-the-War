@@ -2,7 +2,7 @@
 2D3P
 # Oyun İle İlgili Bilgiler
 
-Takım Elemanları
+## Takım Elemanları
 ---------------------------------------------------------------
 Emircan Çelik: Project Owner/Developer
 Hanzade Erdoğan: Scrum Master/Designer
