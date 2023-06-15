@@ -25,7 +25,7 @@ Children Of The War
 
 
 
-Takım Unity 72
+
 
 # Oyun İle İlgili Bilgiler
 
