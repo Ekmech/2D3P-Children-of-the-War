@@ -11,7 +11,6 @@ Berin Yüce Uzun: Designer
 Egemen Kulatu: Developer
 ---------------------------------------------------------------
 Oyun İsmi
-
 Children Of The War
 ---------------------------------------------------------------
 
