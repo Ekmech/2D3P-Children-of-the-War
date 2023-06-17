@@ -50,7 +50,9 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 
 - **Puan tamamlama mantığı**: 
 
-- **Daily Scrum**: : [Sprint 1 Daily Scrum Document]( https://docs.google.com/document/d/1zD5CiMP434ryBaIk0ReDqa0qdKqtF18I/edit?usp=sharing&ouid=110170457476283940620&rtpof=true&sd=true) [Trello Daily Scrum Takibi](https://drive.google.com/file/d/1oQoO7kpa3sZCgdd7HkcJP6szl00RN3UA/view?usp=sharing) [Toplantı Notları Takibi](https://drive.google.com/file/d/16FsVURLHHn6VWc_apVhbaGiojQ1Uxs97/view?usp=sharing)
+- **Daily Scrum**: : [Sprint 1 Daily Scrum Document]( https://docs.google.com/document/d/1zD5CiMP434ryBaIk0ReDqa0qdKqtF18I/edit?usp=sharing&ouid=110170457476283940620&rtpof=true&sd=true)
+- [Trello Daily Scrum Takibi](https://drive.google.com/file/d/1oQoO7kpa3sZCgdd7HkcJP6szl00RN3UA/view?usp=sharing)
+- [Toplantı Notları Takibi](https://drive.google.com/file/d/16FsVURLHHn6VWc_apVhbaGiojQ1Uxs97/view?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]() 
