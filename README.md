@@ -58,7 +58,7 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 Alınan kararlar:
 
 - **Sprint Retrospective:**
-  
+
  
 ---
 
