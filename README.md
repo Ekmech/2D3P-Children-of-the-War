@@ -62,8 +62,8 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 
 
 - **Sprint Retrospective**:
-  . Finaller sebebiyle aktif olunamayan ilk sprintteki eksikleri ikinci sprintte daha çok çalışarak kapatma kararı alınmıştır.
-  . Daha iyi bir oynanış için oyun içi bulmacalara ve oyuncuya atmosferi daha iyi yaşatmak için oyun içi seslere ağırlık verme kararı alınmıştır.
+  Finaller sebebiyle aktif olunamayan ilk sprintteki eksikleri ikinci sprintte daha çok çalışarak kapatma kararı alınmıştır.
+  Daha iyi bir oynanış için oyun içi bulmacalara ve oyuncuya atmosferi daha iyi yaşatmak için oyun içi seslere ağırlık verme kararı alınmıştır.
   
 
 
