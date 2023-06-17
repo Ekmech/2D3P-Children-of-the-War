@@ -61,8 +61,7 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 - **Sprint Review**: Çocuk odası ve dış mekan modellenmiştir. 
 
 
-- **Sprint Retrospective:** Finaller sebebiyle aktif olunamayan ilk sprintteki eksikleri ikinci sprintte daha çok çalışarak kapatma kararı alınmıştır.
-- Daha iyi bir oynanış için oyun içi bulmacalara ve oyuncuya atmosferi daha iyi yaşatmak için oyun içi seslere ağırlık verme kararı alınmıştır.
+- **Sprint Retrospective:** Finaller sebebiyle aktif olunamayan ilk sprintteki eksikleri ikinci sprintte daha çok çalışarak kapatma kararı alınmıştır. Daha iyi bir oynanış için oyun içi bulmacalara ve oyuncuya atmosferi daha iyi yaşatmak için oyun içi seslere ağırlık verme kararı alınmıştır.
   
 
 
