@@ -59,9 +59,15 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
   
   
 - **Sprint Review**:
-Alınan kararlar:
+- -Çocuk odası ve dış mekan modellenmiştir.
+- Oyunun sanat tasarımına, mekaniklerine ve hikayesine karar verilmiştir. 
+
 
 - **Sprint Retrospective:**
+- Finaller sebebiyle aktif olamadığımız ilk sprintteki eksiklerimizi ikinci sprintte daha çok çalışarak kapatma kararı alınmıştır.
+- Oyun içi bulmacalara ağırlık vermeye karar verilmiştir.
+- Oyuncuya atmosferi daha iyi yaşatmak için oyun içindeki seslere de ağırlık verme kararı alınmıştır.
+  
 
 
 ---
