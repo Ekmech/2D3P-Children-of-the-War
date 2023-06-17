@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-U72| 2D3P
+U72 | 2D3P
 
 # Oyun İle İlgili Bilgiler
 
