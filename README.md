@@ -58,13 +58,11 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
  - [Çocuk Odası Tasarımı](https://drive.google.com/file/d/1g793z-4JPy242DrItTFfCVBk-FU0pdeZ/view?usp=sharing) --- [Çocuk Odası Tasarımı 2 ](https://drive.google.com/file/d/1cI70WP_knZP5-7-OCVejAE2_vpMF7zi5/view?usp=sharing)
   
   
-- **Sprint Review**: -Çocuk odası ve dış mekan modellenmiştir. - Oyunun sanat tasarımına, mekaniklerine ve hikayesine karar verilmiştir. 
+- **Sprint Review**: Çocuk odası ve dış mekan modellenmiştir. 
 
 
-- **Sprint Retrospective:**
-- Finaller sebebiyle aktif olamadığımız ilk sprintteki eksiklerimizi ikinci sprintte daha çok çalışarak kapatma kararı alınmıştır.
-- Oyun içi bulmacalara ağırlık vermeye karar verilmiştir.
-- Oyuncuya atmosferi daha iyi yaşatmak için oyun içindeki seslere de ağırlık verme kararı alınmıştır.
+- **Sprint Retrospective:** Finaller sebebiyle aktif olunamayan ilk sprintteki eksikleri ikinci sprintte daha çok çalışarak kapatma kararı alınmıştır.
+- Daha iyi bir oynanış için oyun içi bulmacalara ve oyuncuya atmosferi daha iyi yaşatmak için oyun içi seslere ağırlık verme kararı alınmıştır.
   
 
 
