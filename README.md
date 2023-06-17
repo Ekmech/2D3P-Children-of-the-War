@@ -17,9 +17,6 @@ U72 | 2D3P
 
 --Children Of The War--
 
-## Product Backlog URL
-
-[Unity Team 72 Trello Backlog Board](https://trello.com/invite/b/Ys3W3UHd/ATTIf9f0b516ec113cedde0fad232ba8efa5FF63BBD7/u72-2d3p)
 
 ## Oyun Açıklaması
 
@@ -59,14 +56,14 @@ Alınan kararlar:
 
 - **Sprint Retrospective:**
 
- 
----
 
+---
 ## Product Backlog URL
 
 [Unity Team 72 Trello Backlog Board](https://trello.com/invite/b/Ys3W3UHd/ATTIf9f0b516ec113cedde0fad232ba8efa5FF63BBD7/u72-2d3p)
-
+ 
 ---
+
 
 # Sprint 2
 
