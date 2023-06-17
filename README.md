@@ -57,9 +57,11 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://drive.google.com/file/d/12F7gkFNahEhF035awLYAgT6Mqw0ZlYx2/view?usp=sharing)
-  ![Screenshot 2](https://drive.google.com/file/d/1QjPjW6MR-oeUmoVoRaBUlRF515-YL0EB/view?usp=sharing)
-  ![Screenshot 3]()
+  [Dış Mekan Tasarımı](https://drive.google.com/file/d/12F7gkFNahEhF035awLYAgT6Mqw0ZlYx2/view?usp=sharing)
+  [Dış Mekan Tasarımı 2](https://drive.google.com/file/d/1QjPjW6MR-oeUmoVoRaBUlRF515-YL0EB/view?usp=sharing)
+  [Çocuk Odası Tasarımı](https://drive.google.com/file/d/1g793z-4JPy242DrItTFfCVBk-FU0pdeZ/view?usp=sharing)
+  [Çocuk Odası Tasarımı 2 ](https://drive.google.com/file/d/1cI70WP_knZP5-7-OCVejAE2_vpMF7zi5/view?usp=sharing)
+  
   
 - **Sprint Review**: 
 Alınan kararlar:
