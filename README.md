@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-U72 | 2D3P
+## U72 | 2D3P
 
 # Oyun İle İlgili Bilgiler
 
@@ -15,7 +15,7 @@ U72 | 2D3P
 
 ## Oyun İsmi
 
---Children Of The War--
+### Children Of The War
 
 
 ## Oyun Açıklaması
