@@ -12,29 +12,6 @@
 - Berin Yüce Uzun: Designer
 - Egemen Kulatu: Developer
 
-## Oyun İsmi
-
-Children Of The War
-
-
-
-## Produckt Backlog
-
-
-## Oyunun Hikayesi
-
-
-
-
-
-# Oyun İle İlgili Bilgiler
-
-## Takım Elemanları
-- Emircan Çelik: Project Owner / Developer
-- Hanzade Erdoğan: Scrum Master / Designer
-- Yusuf Yılmaz:Developer
-- Berrin Yüce Uzun:Designer
-- Egemen Kulatu:Developer
 
 ## Oyun İsmi
 
@@ -47,10 +24,15 @@ Children Of The War
 ## Oyun Açıklaması
 
 
+Oyun iki kişiliktir. Her bir oyuncu kendi bilgisayarından oynar. Oyun başladığında iki karakter de farklı mekanlarda doğarlar. Amaçları birbirleriyle iletişim kurarak bulmacaları çözmek ve birbirlerine ulaşmaktır. Bulmacaları çözmek için oyuncular beraber çalışmak zorundadır.
+
 
 ## Oyun Hikayesi
 
 
+Children of the War, Rusya-Ukrayna savaşını en yakından tecrübe eden, gerçek hayatta hiç bir araya gelemese de çok iyi arkadaş olan, biri Rus diğeri ise Ukraynalı iki çocuğun hikayesini anlatır.  Oyun oyuncuya, savaşın haklı,haksız, kazanan yada kaybeden tarafının olmadığını anlatır. Oyunda, çocukların yaşadığı korku, endişe, ayrılık ve kayıp gibi duygusal zorluklar işlenir. Bu sayede oyuncular, savaşın insanlara ve özellikle çocuklara nasıl zarar verdiğini daha iyi anlarlar.
+
+Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmalarını, stratejiler geliştirmelerini ve birbirlerine yardım etmelerini gerektirir. Oyun ilerledikçe, çocuklar arasındaki bağ güçlenir ve oyuncuların çocukların birbirlerine kavuşmasını sağlamak için daha da kararlı olmaları teşvik edilir. Ancak oyunun sonu tamamen oyuncuların yaptıkları tercihlere bağlıdır.
 
 
 
@@ -66,9 +48,9 @@ Children Of The War
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
-- **Puan tamamlama mantığı**: T
+- **Puan tamamlama mantığı**: 
 
-- **Daily Scrum**: :()
+- **Daily Scrum**: :( )
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]() 
