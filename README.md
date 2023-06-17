@@ -57,11 +57,13 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
+  ![Screenshot 1](https://drive.google.com/file/d/12F7gkFNahEhF035awLYAgT6Mqw0ZlYx2/view?usp=sharing)
+  ![Screenshot 2](https://drive.google.com/file/d/1QjPjW6MR-oeUmoVoRaBUlRF515-YL0EB/view?usp=sharing)
   ![Screenshot 3]()
+  
 - **Sprint Review**: 
-Alınan kararlar: 
+Alınan kararlar:
+
 - **Sprint Retrospective:**
   
  
@@ -71,7 +73,7 @@ Alınan kararlar:
 
 ## Product Backlog URL
 
-[Unity Team 72 Miro Backlog Board]()
+[Unity Team 72 Trello Backlog Board](https://trello.com/invite/b/Ys3W3UHd/ATTIf9f0b516ec113cedde0fad232ba8efa5FF63BBD7/u72-2d3p)
 
 ---
 
