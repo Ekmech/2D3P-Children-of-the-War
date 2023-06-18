@@ -58,7 +58,7 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
  - [Çocuk Odası Tasarımı](https://drive.google.com/file/d/1g793z-4JPy242DrItTFfCVBk-FU0pdeZ/view?usp=sharing) --- [Çocuk Odası Tasarımı 2 ](https://drive.google.com/file/d/1cI70WP_knZP5-7-OCVejAE2_vpMF7zi5/view?usp=sharing)
   
   
-- **Sprint Review**: Çocuk odası ve dış mekan modellenmiştir. 
+- **Sprint Review**: Çocuk odası ve dış mekan modellenmiştir. Üç boyutlu alanda karakterin hareketi sağlandı. Zıplama mekaniği eklendi.
 
 
 - **Sprint Retrospective**:
