@@ -43,10 +43,10 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
 
-- **Puan tamamlama mantığı**: 
+- **Puan tamamlama mantığı**: Proje sonunda toplanması gereken 440 puan vardır. İlk sprint için bu puan finaller ve takım üyelerinin yoğunlukları sebebiyle 80 olarak belirlenmiştir. İkinci sprint 180 ve üçüncü sprint 180 olarak belirlenmiştir.
 
 - **Daily Scrum**: : [Sprint 1 Daily Scrum Document]( https://docs.google.com/document/d/1zD5CiMP434ryBaIk0ReDqa0qdKqtF18I/edit?usp=sharing&ouid=110170457476283940620&rtpof=true&sd=true) --- [Trello Daily Scrum Takibi](https://drive.google.com/file/d/1oQoO7kpa3sZCgdd7HkcJP6szl00RN3UA/view?usp=sharing) --- [Toplantı Notları Takibi](https://drive.google.com/file/d/16FsVURLHHn6VWc_apVhbaGiojQ1Uxs97/view?usp=sharing)
 
@@ -58,7 +58,7 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
  - [Çocuk Odası Tasarımı](https://drive.google.com/file/d/1g793z-4JPy242DrItTFfCVBk-FU0pdeZ/view?usp=sharing) --- [Çocuk Odası Tasarımı 2 ](https://drive.google.com/file/d/1cI70WP_knZP5-7-OCVejAE2_vpMF7zi5/view?usp=sharing)
   
   
-- **Sprint Review**: Çocuk odası ve dış mekan modellenmiştir. Üç boyutlu alanda karakterin hareketi sağlandı. Zıplama mekaniği eklendi. Oyunun ufak bir prototipi çıkarıldı.
+- **Sprint Review**: Çocuk odası ve dış mekan modellendi. Üç boyutlu alanda karakterin hareketi sağlandı. Zıplama mekaniği eklendi. Oyunun ufak bir prototipi çıkarıldı.
 
 
 - **Sprint Retrospective**:
