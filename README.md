@@ -51,7 +51,7 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 - **Daily Scrum**: : [Sprint 1 Daily Scrum Document]( https://docs.google.com/document/d/1zD5CiMP434ryBaIk0ReDqa0qdKqtF18I/edit?usp=sharing&ouid=110170457476283940620&rtpof=true&sd=true) --- [Trello Daily Scrum Takibi](https://drive.google.com/file/d/1oQoO7kpa3sZCgdd7HkcJP6szl00RN3UA/view?usp=sharing) --- [Toplantı Notları Takibi](https://drive.google.com/file/d/16FsVURLHHn6VWc_apVhbaGiojQ1Uxs97/view?usp=sharing)
 
 - **Sprint board update**: 
-[Product Backlog](https://drive.google.com/file/d/1sgQK3v1Yy-QGe4FBBsikd5njMHD6xams/view?usp=sharing) 
+[Product Backlog](https://drive.google.com/file/d/1FHT9CH0pnUxR8YME_3yyR-s43BW-AKAF/view?usp=sharing) 
 
 
 - **Oyun Durumu**: [Dış Mekan Tasarımı](https://drive.google.com/file/d/12F7gkFNahEhF035awLYAgT6Mqw0ZlYx2/view?usp=sharing) --- [Dış Mekan Tasarımı 2](https://drive.google.com/file/d/1QjPjW6MR-oeUmoVoRaBUlRF515-YL0EB/view?usp=sharing)
