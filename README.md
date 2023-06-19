@@ -43,6 +43,9 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 
 # Sprint 1
 
+
+- **Sprint notları** : İlk başta ayrı ayrı yazılan görevler ana bir başlıkta toplandı ve alt görevlere bölündü. Toplamda 1040 puanlık sprint 440 puana düşürüldü.
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
 
