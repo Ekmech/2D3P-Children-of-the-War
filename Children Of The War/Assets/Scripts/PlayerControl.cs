@@ -22,3 +22,28 @@ public class PlayerControl : MonoBehaviour
 
     }
 }
+
+public class ItemPickup : MonoBehaviour
+{
+    // Toplanacak öðeyle etkileþimde bulunan karakterin tag'i
+    public string playerTag = "Player";
+
+    private void OnTriggerEnter(Collider other)
+    {
+        // Etkileþimde bulunan nesnenin tag'i "Player" mý diye kontrol et
+        if (other.CompareTag(playerTag))
+        {
+            // Öðeyi topla
+            CollectItem();
+
+            // Nesneyi yok et (isteðe baðlý)
+            Destroy(gameObject);
+        }
+    }
+
+    private void CollectItem()
+    {
+        // Öðenin toplanmasýna dair gerçekleþtirilecek iþlemleri burada gerçekleþtir
+        // Örneðin, puan ekleme, envanter güncelleme, ses efekti oynatma vb.
+    }
+}
