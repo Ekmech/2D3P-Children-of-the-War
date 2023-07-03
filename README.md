@@ -84,7 +84,7 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 - **Puan tamamlama mantığı**: Proje sonunda toplanması gereken 440 puan vardır. İlk sprint için bu puan finaller ve takım üyelerinin yoğunlukları sebebiyle 80 olarak belirlenmiştir. İkinci sprint 180 ve üçüncü sprint 180 olarak belirlenmiştir.
 
 - **Daily Scrum**: : [Sprint 2 Daily Scrum Document](https://docs.google.com/document/d/1zD5CiMP434ryBaIk0ReDqa0qdKqtF18I/edit?usp=sharing&ouid=110170457476283940620&rtpof=true&sd=true) --- [Trello Daily Scrum Takibi](https://drive.google.com/file/d/1uJPkn9dufAo44sywl_Sd79a-9ZkKUccq/view?usp=sharing) ---
-- 
+
 - **Sprint board update**: 
 [Product Backlog](https://drive.google.com/file/d/1k6xs54JRP1XIi1xM4I7oxyQ5JtHxsiB0/view?usp=sharing) 
 
