@@ -89,7 +89,7 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 [Product Backlog](https://drive.google.com/file/d/1k6xs54JRP1XIi1xM4I7oxyQ5JtHxsiB0/view?usp=sharing) 
 
 
-- **Oyun Durumu**: --- 
+- **Oyun Durumu**: [Drive Dosyası](https://drive.google.com/drive/folders/16YmQCNcWWoabn0poIM9fDY055nxp-Vtm?usp=sharing) --- 
   
   
 - **Sprint Review**: Apartman ve labirent modellendi. Karakterin evi, bahçe ve baraka modellendi. Mekan tasarımlarında düzenlemeler yapıldı. Bölüm sonu canavarları yapılmasına karar verildi. Ana menü tasarımı ve kodlaması yapıldı. Toplama mekaniği eklendi. Tırmanma mekaniği eklendi. Düşman mekaniği üzerine çalışılıyor.
