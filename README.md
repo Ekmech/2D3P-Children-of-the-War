@@ -95,6 +95,6 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 - **Sprint Review**: Apartman ve labirent modellendi. Karakterin evi, bahçe ve baraka modellendi. Mekan tasarımlarında düzenlemeler yapıldı. Bölüm sonu canavarları yapılmasına karar verildi. Ana menü tasarımı ve kodlaması yapıldı. Toplama mekaniği eklendi. Tırmanma mekaniği eklendi. Düşman mekaniği üzerine çalışılıyor.
 
 - **Sprint Retrospective**:
-Kalan zamanı en etkili şekilde kullanmak için projede düzenlemelere gidildi. Bazı bölümler birleştirildi ve daha hızlı ilerlenebilmesi için bir yol haritası yapıldı. [Excel Dosyası] (https://docs.google.com/spreadsheets/d/1PZX5XOo3LGG-SezoHsQXvE42ka06U7Pn/edit?usp=sharing&ouid=105531372195398719846&rtpof=true&sd=true)
+Kalan zamanı en etkili şekilde kullanmak için projede düzenlemelere gidildi. Bazı bölümler birleştirildi ve daha hızlı ilerlenebilmesi için bir yol haritası yapıldı. [Excel Dosyası](https://docs.google.com/spreadsheets/d/1PZX5XOo3LGG-SezoHsQXvE42ka06U7Pn/edit?usp=sharing&ouid=105531372195398719846&rtpof=true&sd=true)
 
 
