@@ -351,7 +351,11 @@
 "Assets/Scripts/Collectable.cs"
 "Assets/Scripts/HungerAndThirst.cs"
 "Assets/Scripts/InteractionController.cs"
+"Assets/Scripts/Inventory.cs"
 "Assets/Scripts/Movement.cs"
+"Assets/Scripts/ScriptableSource/SCFlashlight.cs"
+"Assets/Scripts/ScriptableSource/SCFood.cs"
+"Assets/Scripts/ScriptableSource/SCItem.cs"
 "Assets/Scripts/Soldiers.cs"
 -langversion:9.0
 
