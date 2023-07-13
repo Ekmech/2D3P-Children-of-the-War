@@ -13,7 +13,8 @@ public class Movement : MonoBehaviour
     [SerializeField] float interactSpeed;
     [SerializeField] float jumpPow;
     [SerializeField] float grav;
-    [SerializeField] float climbSpeed = 5f;
+    [SerializeField] float climbSpeed;
+    [SerializeField] float hungerSpeed;
     [SerializeField] KeyCode climbKey = KeyCode.F;
     [Header("Mouse Settings")]
     [SerializeField] float mouseSens = 1f;
@@ -23,6 +24,7 @@ public class Movement : MonoBehaviour
 
     private CharacterController characterController;
     private InteractionController interactionController;
+    private HungerAndThirst hungerAndThirst;
     private float currentSpeed;
     private float horizontalInput;
     private float verticalInput;
@@ -35,6 +37,7 @@ public class Movement : MonoBehaviour
 
     void Awake()
     {
+        hungerAndThirst = GetComponent<HungerAndThirst>();
         interactionController = GetComponent<InteractionController>();
         characterController = GetComponent<CharacterController>();
         if (!Camera.main.GetComponent<CameraController>())
@@ -153,7 +156,14 @@ public class Movement : MonoBehaviour
         }
         if (Keyboard.current.leftShiftKey.isPressed)
         {
-            currentSpeed = runSpeed;
+            if (hungerAndThirst.isHunger == false && hungerAndThirst.isThirst == false)
+            {
+                currentSpeed = runSpeed;
+            }
+        }
+        else if (hungerAndThirst.isHunger)
+        {
+            currentSpeed = hungerSpeed;
         }
         else if (interactionController.isInteracting)
         {

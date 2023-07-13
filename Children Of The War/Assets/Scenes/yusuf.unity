@@ -341,6 +341,7 @@ GameObject:
   - component: {fileID: 736792734}
   - component: {fileID: 736792733}
   - component: {fileID: 736792732}
+  - component: {fileID: 736792739}
   - component: {fileID: 736792738}
   - component: {fileID: 736792737}
   m_Layer: 0
@@ -411,12 +412,13 @@ MonoBehaviour:
       m_Action: New Input
       m_Flags: 8
     m_Flags: 0
-  walkSpeed: 8
-  runSpeed: 12
-  interactSpeed: 4
+  walkSpeed: 5
+  runSpeed: 10
+  interactSpeed: 3
   jumpPow: 0.5
   grav: 2
   climbSpeed: 4
+  hungerSpeed: 2.5
   climbKey: 102
   mouseSens: 0.25
   maxViewAngle: 60
@@ -536,6 +538,27 @@ MonoBehaviour:
   interactionSpeed: 1
   interactKey: 101
   isInteracting: 0
+--- !u!114 &736792739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 736792731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1a09b1e9adbc0647929a306a8c0d377, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterMaxHealth: 100
+  maxHunger: 100
+  maxThirst: 100
+  hungerDecrase: 1
+  thirstDecrase: 1
+  hungerDamage: 1
+  thirstDamage: 1
+  isHunger: 0
+  isThirst: 0
 --- !u!1 &932274493
 GameObject:
   m_ObjectHideFlags: 0
