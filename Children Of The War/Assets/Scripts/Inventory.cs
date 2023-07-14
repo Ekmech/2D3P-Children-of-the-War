@@ -11,17 +11,17 @@ public class Inventory : MonoBehaviour
     public int ItemCount;
 
     // Bu deðiþken, envanterdeki öðelerin bir listesini tutar.
-    public List<Item> Items;
+    public List<SCItem> Items;
 
     // Bu fonksiyon, envanterdeki bir öðeyi ekler.
-    public void AddItem(Item item)
+    public void AddItem(SCItem item)
     {
         Items.Add(item);
         ItemCount++;
     }
 
     // Bu fonksiyon, envanterdeki bir öðeyi çýkarýr.
-    public void RemoveItem(Item item)
+    public void RemoveItem(SCItem item)
     {
         Items.Remove(item);
         ItemCount--;
@@ -34,7 +34,7 @@ public class Inventory : MonoBehaviour
     }
 
     // Bu fonksiyon, envanterdeki bir öðeyi döndürür.
-    public Item GetItem(int index)
+    public SCItem GetItem(int index)
     {
         return Items[index];
     }

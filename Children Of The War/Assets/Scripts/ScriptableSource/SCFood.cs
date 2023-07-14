@@ -4,6 +4,5 @@ using UnityEngine;
 
 public class SCFood : SCItem
 {
-    public int hunger:
-
+    public int hunger;
 }
