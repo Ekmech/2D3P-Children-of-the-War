@@ -4,7 +4,8 @@ using UnityEngine;
 
 
 // Bu sýnýf, envanter sistemini temsil eder.
-public class Inventory : MonoBehaviour
+public class Inventory : ScriptableObject
+
 {
 
     // Bu deðiþken, envanterdeki öðelerin sayýsýný tutar.
