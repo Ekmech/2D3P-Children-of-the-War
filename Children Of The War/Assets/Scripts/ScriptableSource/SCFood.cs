@@ -6,3 +6,4 @@ public class SCFood : SCItem
 {
     public int hunger;
 }
+ 
