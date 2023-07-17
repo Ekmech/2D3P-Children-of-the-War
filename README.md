@@ -100,8 +100,6 @@ Kalan zamanı en etkili şekilde kullanmak için projede düzenlemelere gidildi.
 
 ---
 
----
-
 # Sprint 3
 
 
