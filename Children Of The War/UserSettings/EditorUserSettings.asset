@@ -12,7 +12,11 @@ EditorUserSettings:
       value: 0053055550035b095a0d5b7312270844144f497e782d27352f2a4a61b6b06c3b
       flags: 0
     RecentlyUsedSceneGuid-2:
+<<<<<<< HEAD
       value: 530605045603590a595b0d7014750c444416487a7c2a22672e794e31bbb1643a
+=======
+      value: 0757055556535a5f0b0b5920157a0844434f1c2c757b25647b711e37b4e43560
+>>>>>>> parent of 90bf3549 (.)
       flags: 0
     RecentlyUsedSceneGuid-3:
       value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a

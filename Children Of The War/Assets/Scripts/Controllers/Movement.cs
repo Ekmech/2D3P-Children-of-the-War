@@ -15,7 +15,6 @@ public class Movement : MonoBehaviour
     [SerializeField] float grav;
     [SerializeField] float climbSpeed;
     [SerializeField] float hungerSpeed;
-    [SerializeField] float thirstSpeed;
     [SerializeField] KeyCode climbKey = KeyCode.F;
     [Header("Mouse Settings")]
     [SerializeField] float mouseSens = 1f;
@@ -35,11 +34,9 @@ public class Movement : MonoBehaviour
     private Vector3 heightMovement;
     private bool jump = false;
     private bool isClimbing = false;
-    private Animator anim;
 
     void Awake()
     {
-        anim = GetComponent<Animator>();
         hungerAndThirst = GetComponent<HungerAndThirst>();
         interactionController = GetComponent<InteractionController>();
         characterController = GetComponent<CharacterController>();
@@ -78,7 +75,6 @@ public class Movement : MonoBehaviour
     void Update()
     {
         KeyboardInput();
-        AnimationChanger();
     }
     private void FixedUpdate()
     {
@@ -88,59 +84,6 @@ public class Movement : MonoBehaviour
     private void LateUpdate()
     {
         Rotate();
-    }
-    private void AnimationChanger()
-    {
-        if (newInputAction.ReadValue<Vector2>().magnitude > 0f && characterController.isGrounded)
-        {
-            if (currentSpeed == walkSpeed)
-            {
-                anim.SetBool("Walk", true);
-                anim.SetBool("Run", false);
-                anim.SetBool("Thirst", false);
-                anim.SetBool("Climb", false);
-                anim.SetBool("Interaction", false);
-            }
-            else if (currentSpeed == runSpeed)
-            {
-                anim.SetBool("Walk", false);
-                anim.SetBool("Run", true);
-                anim.SetBool("Thirst", false);
-                anim.SetBool("Interaction", false);
-                anim.SetBool("Climb", false);
-            }
-            else if (currentSpeed == interactSpeed)
-            {
-                anim.SetBool("Walk", false);
-                anim.SetBool("Run", false);
-                anim.SetBool("Thirst", false);
-                anim.SetBool("Interaction", true);
-                anim.SetBool("Climb", false);
-            }
-            else if (isClimbing)
-            {
-                //anim.SetBool("Climb", true);
-                anim.SetBool("Walk", false);
-                anim.SetBool("Run", false);
-                anim.SetBool("Thirst", false);
-                anim.SetBool("Interaction", false);
-            }
-            else if (currentSpeed == thirstSpeed)
-            {
-                anim.SetBool("Thirst", true);
-                anim.SetBool("Walk", false);
-                anim.SetBool("Run", false);
-                anim.SetBool("Interaction", false);
-                anim.SetBool("Climb", false);
-            }
-        }
-        else
-        {
-            anim.SetBool("Walk", false);
-            anim.SetBool("Run", false);
-            anim.SetBool("Interaction", false);
-           // anim.SetBool("Climb", false);
-        }
     }
     private void Move()
     {
@@ -191,12 +134,12 @@ public class Movement : MonoBehaviour
     private void StartClimbing()
     {
         isClimbing = true;
-        anim.SetBool("Climb", true);
     }
     private void Climbing()
     {
         if (isClimbing)
         {
+
             float veticalInput = Input.GetAxis("Vertical");
             Vector3 moveDirection = transform.up * verticalInput;
             moveDirection *= climbSpeed * Time.deltaTime;
@@ -211,13 +154,12 @@ public class Movement : MonoBehaviour
         {
             jump = true;
         }
-        if ((hungerAndThirst.isHunger == false && hungerAndThirst.isThirst == false) && Keyboard.current.leftShiftKey.isPressed)
+        if (Keyboard.current.leftShiftKey.isPressed)
         {
-            currentSpeed = runSpeed;
-        }
-        else if (hungerAndThirst.isThirst)
-        {
-            currentSpeed = thirstSpeed;
+            if (hungerAndThirst.isHunger == false && hungerAndThirst.isThirst == false)
+            {
+                currentSpeed = runSpeed;
+            }
         }
         else if (hungerAndThirst.isHunger)
         {

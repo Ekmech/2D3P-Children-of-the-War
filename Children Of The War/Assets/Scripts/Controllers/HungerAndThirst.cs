@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class HungerAndThirst : MonoBehaviour
 {
@@ -14,9 +13,12 @@ public class HungerAndThirst : MonoBehaviour
     [Header("Hunger & Thirst Damage")]
     [SerializeField] float hungerDamage = 1f;
     [SerializeField] float thirstDamage = 1f;
+<<<<<<< HEAD:Children Of The War/Assets/Scripts/Controllers/HungerAndThirst.cs
     [SerializeField] Image splatterImage;
     [Header("Hunger & Thirst Regenerate")]
     [SerializeField] float regenerationRate= 1f;
+=======
+>>>>>>> parent of 90bf3549 (.):Children Of The War/Assets/Scripts/HungerAndThirst.cs
 
     public bool isHunger = false;
     public bool isThirst = false;
@@ -71,9 +73,6 @@ public class HungerAndThirst : MonoBehaviour
     }
     private void CheckHealth()
     {
-        Color splatterAlpha = splatterImage.color;
-        splatterAlpha.a = 1 - (currentHealth / characterMaxHealth);
-        splatterImage.color = splatterAlpha;
         if (currentHealth <= 0f)
         {
             Debug.LogWarning("Dead");
