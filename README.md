@@ -44,12 +44,12 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 # Sprint 1
 
 
-- **Sprint notları** : İlk başta ayrı ayrı yazılan görevler ana bir başlıkta toplandı ve alt görevlere bölündü. Toplamda 1040 puanlık sprint 440 puana düşürüldü.
+- **Sprint notları** : İlk başta ayrı ayrı yazılan görevler ana bir başlıkta toplandı ve alt görevlere bölündü. Toplamda 1040 puanlık sprint 270 puana düşürüldü.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
 
-- **Puan tamamlama mantığı**: Proje sonunda toplanması gereken 440 puan vardır. İlk sprint için bu puan finaller ve takım üyelerinin yoğunlukları sebebiyle 80 olarak belirlenmiştir. İkinci sprint 180 ve üçüncü sprint 180 olarak belirlenmiştir.
+- **Puan tamamlama mantığı**: Proje sonunda toplanması gereken 270 puan vardır. İlk sprint için bu puan finaller ve takım üyelerinin yoğunlukları sebebiyle 80 olarak belirlenmiştir. İkinci sprint 90 ve üçüncü sprint 100 olarak belirlenmiştir.
 
 - **Daily Scrum**: : [Sprint 1 Daily Scrum Document]( https://docs.google.com/document/d/1zD5CiMP434ryBaIk0ReDqa0qdKqtF18I/edit?usp=sharing&ouid=110170457476283940620&rtpof=true&sd=true) --- [Trello Daily Scrum Takibi](https://drive.google.com/file/d/1oQoO7kpa3sZCgdd7HkcJP6szl00RN3UA/view?usp=sharing) --- [Toplantı Notları Takibi](https://drive.google.com/file/d/16FsVURLHHn6VWc_apVhbaGiojQ1Uxs97/view?usp=sharing)
 
@@ -81,7 +81,7 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 - **Sprint içinde tamamlanması tahmin edilen puan**: 90 Puan
 
 
-- **Puan tamamlama mantığı**: Proje sonunda toplanması gereken 440 puan vardır. İlk sprint için bu puan finaller ve takım üyelerinin yoğunlukları sebebiyle 80 olarak belirlenmiştir. İkinci sprint 180 ve üçüncü sprint 180 olarak belirlenmiştir.
+- **Puan tamamlama mantığı**: Proje sonunda toplanması gereken 270 puan vardır. İlk sprint için bu puan finaller ve takım üyelerinin yoğunlukları sebebiyle 80 olarak belirlenmiştir. İkinci sprint 90 ve üçüncü sprint 100 olarak belirlenmiştir.
 
 - **Daily Scrum**: : [Sprint 2 Daily Scrum Document](https://docs.google.com/document/d/1zD5CiMP434ryBaIk0ReDqa0qdKqtF18I/edit?usp=sharing&ouid=110170457476283940620&rtpof=true&sd=true) --- [Trello Daily Scrum Takibi](https://drive.google.com/file/d/1uJPkn9dufAo44sywl_Sd79a-9ZkKUccq/view?usp=sharing) ---
 
@@ -98,3 +98,29 @@ Bulmacalar ve zorluklar, oyuncuların birlikte çalışarak iletişim kurmaları
 Kalan zamanı en etkili şekilde kullanmak için projede düzenlemelere gidildi. Bazı bölümler birleştirildi ve daha hızlı ilerlenebilmesi için bir yol haritası yapıldı. [Excel Dosyası](https://docs.google.com/spreadsheets/d/1PZX5XOo3LGG-SezoHsQXvE42ka06U7Pn/edit?usp=sharing&ouid=105531372195398719846&rtpof=true&sd=true)
 
 
+---
+
+---
+
+# Sprint 3
+
+
+- **Sprint notları** : Görevlerde sadeleştirmeye gidildi.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Proje sonunda toplanması gereken 270 puan vardır. İlk sprint için bu puan finaller ve takım üyelerinin yoğunlukları sebebiyle 80 olarak belirlenmiştir. İkinci sprint 90 ve üçüncü sprint 100 olarak belirlenmiştir.
+
+- **Daily Scrum**: : Takımın yoğun olması sebebiyle iletişim bu sprintte Whatsapp üzerinden sağlandı. [WhatsApp Konuşmaları](https://drive.google.com/file/d/1RGOyet8meX8rOpqwXjsYjRJ0EQWUe-8-/view?usp=sharing)
+
+- **Sprint board update**: [Product Backlog](https://drive.google.com/file/d/1i_ANUrDTN-LHka8Yt44Sti4Ndv6wY8Pa/view?usp=sharing) 
+
+
+- **Oyun Durumu**: [Drive Dosyası](https://drive.google.com/drive/folders/1nCzCiTIqpsrc0tlLtlXRQtctEcTK0WH_?usp=sharing) --- 
+  
+  
+- **Sprint Review**: Mekanlar birleştirildi. Oynanış süresini arttırmak ve çeşitlilik sağlamak amacıyla ekstra mekanlar eklendi. Düşman mekaniği iyileştirildi. Efektler konuldu. Animasyon eklendi. Arayüz iyileştirildi. 
+
+- **Sprint Retrospective**:
+Oyun Unity'de birleştirildi. Mekanikler entegre edildi. Arayüz tasarımında iyileştirmeye gidildi. Playtest yapıldı.
