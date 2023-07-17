@@ -1,5 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-11.5032958984375,"y":0.9199648499488831,"z":-2.5307111740112306},"rotation":{"x":0.006297875661402941,"y":0.9903003573417664,"z":-0.13028475642204286,"w":0.04786960035562515},"size":1.1829546689987183,"orthographic":false}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":216.3197784423828,"y":5.540879726409912,"z":44.52050018310547},"rotation":{"x":-0.15526904165744782,"y":0.7602753043174744,"z":0.19695700705051423,"w":0.5992726683616638},"size":1.2210699319839478,"orthographic":false}
 >>>>>>> parent of 90bf3549 (.)
+=======
+<<<<<<< Updated upstream
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":216.3197784423828,"y":5.540879726409912,"z":44.52050018310547},"rotation":{"x":-0.15526904165744782,"y":0.7602753043174744,"z":0.19695700705051423,"w":0.5992726683616638},"size":1.2210699319839478,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":13.99328899383545,"y":1.9825583696365357,"z":-4.384570121765137},"rotation":{"x":0.056364983320236209,"y":0.28300848603248598,"z":-0.016662942245602609,"w":0.9573183655738831},"size":1.5130054950714112,"orthographic":false}
+>>>>>>> Stashed changes
+>>>>>>> parent of 6020e5ad (.)
