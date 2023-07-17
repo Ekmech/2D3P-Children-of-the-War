@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 sceneSetups: []
-=======
-sceneSetups:
-- path: Assets/Scenes/Menu.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
->>>>>>> parent of 6020e5ad (.)
-=======
-sceneSetups: []
->>>>>>> Stashed changes
