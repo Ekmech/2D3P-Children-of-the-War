@@ -25,10 +25,12 @@ public class Soldiers : MonoBehaviour
         Chase,
         Catch
     }
+    private Animator anim;
     [SerializeField] private State currentState = State.Idle;
 
     void Awake()
     {
+        anim = GetComponent<Animator>();
         agent = GetComponent<NavMeshAgent>();
         player = GameObject.FindWithTag("Player").transform;
     }
@@ -36,6 +38,7 @@ public class Soldiers : MonoBehaviour
     {
         StateCheck();
         StateExecute();
+        AnimationExecute();
     }
     private void OnDrawGizmos()
     {
@@ -87,8 +90,8 @@ public class Soldiers : MonoBehaviour
                     agent.enabled = false;
                     transform.position = agentTarget;
                     agent.enabled = true;
-
                     Invoke("Search", patrolWaitTime);
+                    anim.SetBool("Search", false);
                     isSearched = true;
                 }
                 break;
@@ -100,12 +103,42 @@ public class Soldiers : MonoBehaviour
                 break;
         }
     }
+    private void AnimationExecute()
+    {
+        if (currentState == State.Search)
+        {
+           
+            anim.SetBool("Search", true);
+            anim.SetBool("Chase", false);
+            anim.SetBool("Catch", false);
+        }
+        else if (currentState == State.Chase)
+        {
+            anim.SetBool("Search", false);
+            anim.SetBool("Chase", true);
+            anim.SetBool("Catch", false);
+        }
+        else if (currentState == State.Catch)
+        {
+            anim.SetBool("Search", false);
+            anim.SetBool("Chase", false);
+            anim.SetBool("Catch", true);
+        }
+        else
+        {
+            anim.SetBool("Search", false);
+            anim.SetBool("Chase", false);
+            anim.SetBool("Catch", false);
+        }
+    }
     private void Search()
     {
         agent.isStopped = false;
         agent.speed = searchSpeed;
         isSearched = false;
         agent.SetDestination(GetRandomPosition());
+       // anim.SetBool("Search", true);
+
     }
     private void Chase()
     {

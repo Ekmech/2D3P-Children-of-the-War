@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HungerAndThirst : MonoBehaviour
 {
@@ -13,6 +14,9 @@ public class HungerAndThirst : MonoBehaviour
     [Header("Hunger & Thirst Damage")]
     [SerializeField] float hungerDamage = 1f;
     [SerializeField] float thirstDamage = 1f;
+    [SerializeField] Image splatterImage;
+    [Header("Hunger & Thirst Regenerate")]
+    [SerializeField] float regenerationRate= 1f;
 
     public bool isHunger = false;
     public bool isThirst = false;
@@ -32,6 +36,9 @@ public class HungerAndThirst : MonoBehaviour
         DecraseThirst();
         CheckHungerAndThirst();
         CheckHealth();
+   /*   Regenerate();
+        RestoreHunger();
+        RestoreThirst(); */
     }
     private void DecraseHunger()
     {
@@ -64,6 +71,9 @@ public class HungerAndThirst : MonoBehaviour
     }
     private void CheckHealth()
     {
+        Color splatterAlpha = splatterImage.color;
+        splatterAlpha.a = 1 - (currentHealth / characterMaxHealth);
+        splatterImage.color = splatterAlpha;
         if (currentHealth <= 0f)
         {
             Debug.LogWarning("Dead");
@@ -80,5 +90,29 @@ public class HungerAndThirst : MonoBehaviour
         isThirst = true;
         currentHealth -= thirstDamage * Time.deltaTime;
         currentHealth = Mathf.Clamp(currentHealth, 0f, characterMaxHealth);
+    }
+    private void RestoreHunger()
+    {
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            currentHunger += 20;
+            currentHunger = Mathf.Clamp(currentHunger, 0f, maxHunger);
+        }
+    }
+    private void RestoreThirst()
+    {
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            currentThirst += 20;
+            currentThirst = Mathf.Clamp(currentThirst, 0f, maxThirst);
+        }
+    }
+    private void Regenerate()
+    {
+        if ((!isThirst && !isHunger) && currentHealth < characterMaxHealth)
+        {
+            currentHealth += regenerationRate * Time.deltaTime;
+            currentHealth = Mathf.Clamp(currentHealth, 0f, characterMaxHealth);
+        }
     }
 }
