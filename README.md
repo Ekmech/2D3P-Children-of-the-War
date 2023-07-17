@@ -117,7 +117,7 @@ Kalan zamanı en etkili şekilde kullanmak için projede düzenlemelere gidildi.
 - **Sprint board update**: [Product Backlog](https://drive.google.com/file/d/1i_ANUrDTN-LHka8Yt44Sti4Ndv6wY8Pa/view?usp=sharing) 
 
 
-- **Oyun Durumu**: [Drive Dosyası](https://drive.google.com/drive/folders/1nCzCiTIqpsrc0tlLtlXRQtctEcTK0WH_?usp=sharing) --- 
+- **Oyun Durumu**: [Drive Dosyası](https://drive.google.com/drive/folders/1nCzCiTIqpsrc0tlLtlXRQtctEcTK0WH_?usp=sharing) 
   
   
 - **Sprint Review**: Mekanlar birleştirildi. Oynanış süresini arttırmak ve çeşitlilik sağlamak amacıyla ekstra mekanlar eklendi. Düşman mekaniği iyileştirildi. Efektler konuldu. Animasyon eklendi. Arayüz iyileştirildi. 
