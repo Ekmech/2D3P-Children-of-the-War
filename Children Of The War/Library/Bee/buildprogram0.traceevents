@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 { "pid": 35942, "tid": 1, "ts": 1689601248320995, "dur": 234756, "ph": "X", "name": "BuildProgram", "args": {} },
@@ -50,3 +51,12 @@
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+{ "pid": 35942, "tid": 1, "ts": 1689600985538841, "dur": 194813, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689600985539682, "dur": 49920, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689600985702605, "dur": 4287, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689600985706894, "dur": 26749, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689600985707373, "dur": 20576, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689600985737549, "dur": 928, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689600985736890, "dur": 1610, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+>>>>>>> parent of f6de8366 (Scriptlere Düzen getirildi)

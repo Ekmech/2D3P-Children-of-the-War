@@ -324,6 +324,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -r:"C:/Users/Ekmevk/OneDrive/Belgeler/GitHub/2D3P-bootcamp-project/Children Of The War/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"C:/Users/Ekmevk/OneDrive/Belgeler/GitHub/2D3P-bootcamp-project/Children Of The War/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 =======
@@ -338,6 +339,14 @@
 -r:"D:/Yeni klasör (6)/2D3P-Children-of-the-War/Children Of The War/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"D:/Yeni klasör (6)/2D3P-Children-of-the-War/Children Of The War/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 >>>>>>> parent of 6020e5ad (.)
+=======
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
+-r:"C:/Users/Hp/OneDrive/Masaüstü/bootcmp/2D3P-Children-of-the-War/Children Of The War/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"C:/Users/Hp/OneDrive/Masaüstü/bootcmp/2D3P-Children-of-the-War/Children Of The War/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+>>>>>>> parent of f6de8366 (Scriptlere Düzen getirildi)
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
@@ -362,18 +371,20 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Scripts/Collectable/Collectable.cs"
-"Assets/Scripts/Collectable/Kraker.cs"
-"Assets/Scripts/Collectable/Su.cs"
-"Assets/Scripts/Controllers/CameraController.cs"
-"Assets/Scripts/Controllers/HungerAndThirst.cs"
-"Assets/Scripts/Controllers/InteractionController.cs"
-"Assets/Scripts/Controllers/Movement.cs"
-"Assets/Scripts/Enemy/Soldiers.cs"
-"Assets/Scripts/Menu/AudioManager.cs"
-"Assets/Scripts/Menu/MainMenu.cs"
-"Assets/Scripts/Menu/Quit.cs"
-"Assets/Scripts/Menu/VolumeSettings.cs"
+"Assets/Scripts/AudioManager.cs"
+"Assets/Scripts/CameraController.cs"
+"Assets/Scripts/Collectable.cs"
+"Assets/Scripts/HungerAndThirst.cs"
+"Assets/Scripts/InteractionController.cs"
+"Assets/Scripts/Inventory.cs"
+"Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/Movement.cs"
+"Assets/Scripts/Quit.cs"
+"Assets/Scripts/ScriptableSource/SCFlashlight.cs"
+"Assets/Scripts/ScriptableSource/SCFood.cs"
+"Assets/Scripts/ScriptableSource/SCItem.cs"
+"Assets/Scripts/Soldiers.cs"
+"Assets/Scripts/VolumeSettings.cs"
 -langversion:9.0
 
 /deterministic
