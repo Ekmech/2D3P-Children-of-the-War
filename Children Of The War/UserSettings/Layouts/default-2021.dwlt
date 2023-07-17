@@ -22,11 +22,16 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Console
 =======
   m_Title: Project
 >>>>>>> parent of 90bf3549 (.)
   m_RootView: {fileID: 6}
+=======
+  m_Title: Game
+  m_RootView: {fileID: 3}
+>>>>>>> parent of 6020e5ad (.)
 =======
   m_Title: Game
   m_RootView: {fileID: 3}
@@ -55,6 +60,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -95,11 +101,26 @@ MonoBehaviour:
     width: 1536
     height: 730.8
 >>>>>>> parent of 6020e5ad (.)
+=======
+<<<<<<< Updated upstream
+    width: 1920
+    height: 947
+  m_MinSize: {x: 300, y: 200}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 69
+=======
+    width: 1536
+    height: 730.8
+>>>>>>> parent of 6020e5ad (.)
   m_MinSize: {x: 200, y: 223}
   m_MaxSize: {x: 4000, y: 4023}
   m_ActualView: {fileID: 6}
 >>>>>>> Stashed changes
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 6020e5ad (.)
+=======
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
@@ -174,6 +195,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 432.8
     width: 1172.8
     height: 298
@@ -181,6 +203,8 @@ MonoBehaviour:
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
 =======
+=======
+>>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
     y: 560
@@ -219,8 +243,13 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
     height: 780.8
+=======
+    width: 1920
+    height: 997
+>>>>>>> parent of 6020e5ad (.)
 =======
     width: 1920
     height: 997
@@ -305,7 +334,11 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 17
+=======
+  controlID: 70
+>>>>>>> parent of 6020e5ad (.)
 =======
   controlID: 70
 >>>>>>> parent of 6020e5ad (.)
@@ -338,7 +371,11 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 65
+=======
+  controlID: 71
+>>>>>>> parent of 6020e5ad (.)
 =======
   controlID: 71
 >>>>>>> parent of 6020e5ad (.)
@@ -430,9 +467,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: a0590000
     m_LastClickedID: 22944
     m_ExpandedIDs: 000000009e59000000ca9a3b
+=======
+    m_SelectedIDs: e6680000
+    m_LastClickedID: 26854
+    m_ExpandedIDs: 000000007e680000806800008268000000ca9a3bffffff7f
+>>>>>>> parent of 6020e5ad (.)
 =======
     m_SelectedIDs: e6680000
     m_LastClickedID: 26854
@@ -472,7 +515,11 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000
+=======
+    m_ExpandedIDs: 000000007e6800008068000082680000
+>>>>>>> parent of 6020e5ad (.)
 =======
     m_ExpandedIDs: 000000007e6800008068000082680000
 >>>>>>> parent of 6020e5ad (.)
@@ -610,9 +657,15 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 6e5a0000
       m_LastClickedID: 23150
       m_ExpandedIDs: 10faffff36fbffff
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 5eccffff12fbffff
+>>>>>>> parent of 6020e5ad (.)
 =======
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -907,9 +960,15 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -11.503296, y: 0.91996485, z: -2.5307112}
     speed: 2
     m_Value: {x: -11.503296, y: 0.91996485, z: -2.5307112}
+=======
+    m_Target: {x: 216.31978, y: 5.5408797, z: 44.5205}
+    speed: 2
+    m_Value: {x: 216.31978, y: 5.5408797, z: 44.5205}
+>>>>>>> parent of 6020e5ad (.)
 =======
     m_Target: {x: 216.31978, y: 5.5408797, z: 44.5205}
     speed: 2
@@ -968,6 +1027,7 @@ MonoBehaviour:
   m_Rotation:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.0062978757, y: 0.99030036, z: -0.13028476, w: 0.0478696}
     speed: 2
     m_Value: {x: 0.0074406783, y: 0.98951834, z: -0.133203, w: 0.05527336}
@@ -975,6 +1035,15 @@ MonoBehaviour:
     m_Target: 1.1829547
     speed: 2
     m_Value: 1.1829547
+=======
+    m_Target: {x: -0.15526904, y: 0.7602753, z: 0.196957, w: 0.59927267}
+    speed: 2
+    m_Value: {x: -0.15526542, y: 0.76025754, z: 0.1969524, w: 0.59925866}
+  m_Size:
+    m_Target: 1.2210699
+    speed: 2
+    m_Value: 1.2210699
+>>>>>>> parent of 6020e5ad (.)
 =======
     m_Target: {x: -0.15526904, y: 0.7602753, z: 0.196957, w: 0.59927267}
     speed: 2
@@ -1012,7 +1081,11 @@ MonoBehaviour:
     m_OcclusionCulling: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+=======
+  m_LastSceneViewRotation: {x: 0, y: 1, z: 0, w: 0}
+>>>>>>> parent of 6020e5ad (.)
 =======
   m_LastSceneViewRotation: {x: 0, y: 1, z: 0, w: 0}
 >>>>>>> parent of 6020e5ad (.)
@@ -1051,11 +1124,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 507
     y: 94
     width: 1532
     height: 790
 =======
+=======
+<<<<<<< Updated upstream
+>>>>>>> parent of 6020e5ad (.)
 =======
 <<<<<<< Updated upstream
 >>>>>>> parent of 6020e5ad (.)
@@ -1068,8 +1145,11 @@ MonoBehaviour:
     height: 539
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 90bf3549 (.)
 =======
+=======
+>>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
 =======
@@ -1079,6 +1159,9 @@ MonoBehaviour:
     height: 711.8
 >>>>>>> Stashed changes
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 6020e5ad (.)
+=======
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
@@ -1096,11 +1179,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 1532, y: 769}
 =======
   m_TargetSize: {x: 1102, y: 518}
 >>>>>>> parent of 90bf3549 (.)
 =======
+=======
+>>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
 <<<<<<< Updated upstream
@@ -1109,6 +1195,9 @@ MonoBehaviour:
   m_TargetSize: {x: 1536, y: 690.8}
 >>>>>>> Stashed changes
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 6020e5ad (.)
+=======
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
@@ -1129,11 +1218,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -612.8
     m_HBaseRangeMax: 612.8
     m_VBaseRangeMin: -307.6
     m_VBaseRangeMax: 307.6
 =======
+=======
+<<<<<<< Updated upstream
+>>>>>>> parent of 6020e5ad (.)
 =======
 <<<<<<< Updated upstream
 >>>>>>> parent of 6020e5ad (.)
@@ -1146,8 +1239,11 @@ MonoBehaviour:
     m_VBaseRangeMax: 259
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 90bf3549 (.)
 =======
+=======
+>>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
 =======
@@ -1157,6 +1253,9 @@ MonoBehaviour:
     m_VBaseRangeMax: 276.32
 >>>>>>> Stashed changes
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 6020e5ad (.)
+=======
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
@@ -1177,6 +1276,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1201,6 +1301,12 @@ MonoBehaviour:
       height: 518
     m_Scale: {x: 1, y: 1}
 >>>>>>> parent of 6020e5ad (.)
+=======
+<<<<<<< Updated upstream
+      width: 1102
+      height: 518
+    m_Scale: {x: 1, y: 1}
+>>>>>>> parent of 6020e5ad (.)
     m_Translation: {x: 551, y: 259}
 =======
       width: 1536
@@ -1209,6 +1315,9 @@ MonoBehaviour:
     m_Translation: {x: 768, y: 345.4}
 >>>>>>> Stashed changes
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 6020e5ad (.)
+=======
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
@@ -1218,6 +1327,7 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1254,6 +1364,15 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
 >>>>>>> parent of 6020e5ad (.)
+=======
+<<<<<<< Updated upstream
+      x: -551
+      y: -259
+      width: 1102
+      height: 518
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+>>>>>>> parent of 6020e5ad (.)
   m_LastWindowPixelSize: {x: 1102, y: 539}
 =======
       x: -768
@@ -1265,6 +1384,9 @@ MonoBehaviour:
   m_LastWindowPixelSize: {x: 1920, y: 889.75}
 >>>>>>> Stashed changes
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 6020e5ad (.)
+=======
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)

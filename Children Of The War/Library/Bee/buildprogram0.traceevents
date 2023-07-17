@@ -3,6 +3,7 @@
 { "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 { "pid": 35942, "tid": 1, "ts": 1689601248320995, "dur": 234756, "ph": "X", "name": "BuildProgram", "args": {} },
@@ -33,6 +34,8 @@
 =======
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 6020e5ad (.)
 { "pid": 35942, "tid": 1, "ts": 1689522988097205, "dur": 305527, "ph": "X", "name": "BuildProgram", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1689522988098249, "dur": 72225, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1689522988357851, "dur": 2998, "ph": "X", "name": "OutputData.Write", "args": {} },
@@ -41,6 +44,9 @@
 { "pid": 35942, "tid": 1, "ts": 1689522988409029, "dur": 1188, "ph": "X", "name": "", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1689522988408190, "dur": 2051, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 6020e5ad (.)
+=======
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)

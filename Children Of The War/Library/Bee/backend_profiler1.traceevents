@@ -1,6 +1,7 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1689601248640931, "dur":1008, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
@@ -2874,6 +2875,8 @@
 =======
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 6020e5ad (.)
 ,{ "pid":12345, "tid":0, "ts":1689522988577369, "dur":657, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1689522988578032, "dur":162, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
 ,{ "pid":12345, "tid":0, "ts":1689522988578239, "dur":29, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -3827,6 +3830,9 @@
 ,{ "pid":12345, "tid":8, "ts":1689522988602510, "dur":182436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1689522988787562, "dur":4617, "ph":"X", "name": "ProfilerWriteOutput" }
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 6020e5ad (.)
+=======
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
