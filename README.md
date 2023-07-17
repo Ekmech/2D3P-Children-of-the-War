@@ -123,4 +123,4 @@ Kalan zamanı en etkili şekilde kullanmak için projede düzenlemelere gidildi.
 - **Sprint Review**: Mekanlar birleştirildi. Oynanış süresini arttırmak ve çeşitlilik sağlamak amacıyla ekstra mekanlar eklendi. Düşman mekaniği iyileştirildi. Efektler konuldu. Animasyon eklendi. Arayüz iyileştirildi. 
 
 - **Sprint Retrospective**:
-Oyun Unity'de birleştirildi. Mekanikler entegre edildi. Arayüz tasarımında iyileştirmeye gidildi. Playtest yapıldı.
+Oyun Unity'de birleştirildi. Mekanikler entegre edildi. Arayüz tasarımında iyileştirmeye gidildi. Playtest yapıldı. Oyunun akış diyagramı çıkarıldı. [Akış Diyagramı](https://drive.google.com/file/d/1VrNl3jw636_yOk576cAcauzrTjWhQt9_/view?usp=sharing)
