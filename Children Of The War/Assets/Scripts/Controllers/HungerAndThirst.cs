@@ -14,9 +14,12 @@ public class HungerAndThirst : MonoBehaviour
     [SerializeField] float hungerDamage = 1f;
     [SerializeField] float thirstDamage = 1f;
 <<<<<<< HEAD:Children Of The War/Assets/Scripts/Controllers/HungerAndThirst.cs
+<<<<<<< HEAD:Children Of The War/Assets/Scripts/Controllers/HungerAndThirst.cs
     [SerializeField] Image splatterImage;
     [Header("Hunger & Thirst Regenerate")]
     [SerializeField] float regenerationRate= 1f;
+=======
+>>>>>>> parent of 90bf3549 (.):Children Of The War/Assets/Scripts/HungerAndThirst.cs
 =======
 >>>>>>> parent of 90bf3549 (.):Children Of The War/Assets/Scripts/HungerAndThirst.cs
 

@@ -11,6 +11,7 @@
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 { "pid": 0, "tid": 1, "ts": 1689620411922498, "dur": 126366, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1689620411923809, "dur": 58906, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1689620411982939, "dur": 55793, "ph": "X", "name": "Run Backend", "args": {} },
@@ -22,6 +23,8 @@
 =======
 >>>>>>> parent of 6020e5ad (.)
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 90bf3549 (.)
 { "pid": 0, "tid": 1, "ts": 1689522987832963, "dur": 1069412, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1689522987832985, "dur": 54960, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1689522987887947, "dur": 103962, "ph": "X", "name": "Run Backend", "args": {} },
@@ -1058,6 +1061,7 @@
 ,{ "pid":12345, "tid":0, "ts":1689522988787562, "dur":4617, "ph":"X", "name": "ProfilerWriteOutput" }
 ,{ "pid": 0, "tid": 1, "ts": 1689522988903097, "dur": 676, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1689522988902656, "dur": 1131, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+<<<<<<< HEAD
 =======
 { "pid": 0, "tid": 1, "ts": 1689540874512598, "dur": 348245, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1689540874514078, "dur": 61589, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
@@ -2017,6 +2021,8 @@
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 90bf3549 (.)
 {}
 
 ]

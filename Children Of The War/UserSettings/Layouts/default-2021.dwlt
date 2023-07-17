@@ -23,6 +23,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Console
 =======
   m_Title: Project
@@ -40,6 +41,10 @@ MonoBehaviour:
   m_Title: Game
   m_RootView: {fileID: 3}
 >>>>>>> parent of 6020e5ad (.)
+=======
+  m_Title: Project
+  m_RootView: {fileID: 6}
+>>>>>>> parent of 90bf3549 (.)
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
@@ -51,15 +56,18 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12060, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: GameView
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
   m_EditorClassIdentifier: 
-  m_Children: []
+  m_Children:
+  - {fileID: 9}
+  - {fileID: 3}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -80,12 +88,15 @@ MonoBehaviour:
 >>>>>>> parent of 90bf3549 (.)
 =======
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 90bf3549 (.)
     width: 1920
     height: 947
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
   controlID: 69
+<<<<<<< HEAD
 =======
     width: 1536
     height: 730.8
@@ -124,6 +135,8 @@ MonoBehaviour:
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 90bf3549 (.)
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +146,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-<<<<<<< Updated upstream
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -228,15 +240,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-=======
->>>>>>> Stashed changes
   m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
-  - {fileID: 4}
+  - {fileID: 7}
   - {fileID: 2}
-  - {fileID: 5}
+  - {fileID: 8}
   m_Position:
     serializedVersion: 2
     x: 0
@@ -264,7 +274,7 @@ MonoBehaviour:
   m_TopViewHeight: 30
   m_UseBottomView: 1
   m_BottomViewHeight: 20
---- !u!114 &4
+--- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -286,7 +296,7 @@ MonoBehaviour:
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
---- !u!114 &5
+--- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -307,7 +317,6 @@ MonoBehaviour:
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-<<<<<<< Updated upstream
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1099,9 +1108,6 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 --- !u!114 &16
-=======
---- !u!114 &6
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1125,6 +1131,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 507
     y: 94
     width: 1532
@@ -1139,10 +1146,13 @@ MonoBehaviour:
 =======
 <<<<<<< Updated upstream
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 90bf3549 (.)
     x: 1898
     y: 73
     width: 1102
     height: 539
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1165,6 +1175,8 @@ MonoBehaviour:
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 90bf3549 (.)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -1176,6 +1188,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1201,6 +1214,9 @@ MonoBehaviour:
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+  m_TargetSize: {x: 1102, y: 518}
+>>>>>>> parent of 90bf3549 (.)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1219,6 +1235,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -612.8
     m_HBaseRangeMax: 612.8
     m_VBaseRangeMin: -307.6
@@ -1233,10 +1250,13 @@ MonoBehaviour:
 =======
 <<<<<<< Updated upstream
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 90bf3549 (.)
     m_HBaseRangeMin: -551
     m_HBaseRangeMax: 551
     m_VBaseRangeMin: -259
     m_VBaseRangeMax: 259
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1259,6 +1279,8 @@ MonoBehaviour:
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 90bf3549 (.)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1280,6 +1302,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1532
       height: 769
     m_Scale: {x: 1, y: 1}
@@ -1292,6 +1315,8 @@ MonoBehaviour:
 >>>>>>> parent of 90bf3549 (.)
 =======
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 90bf3549 (.)
       width: 1102
       height: 518
     m_Scale: {x: 1, y: 1}
@@ -1308,6 +1333,7 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
 >>>>>>> parent of 6020e5ad (.)
     m_Translation: {x: 551, y: 259}
+<<<<<<< HEAD
 =======
       width: 1536
       height: 690.8
@@ -1321,12 +1347,15 @@ MonoBehaviour:
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 90bf3549 (.)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1349,6 +1378,8 @@ MonoBehaviour:
 >>>>>>> parent of 90bf3549 (.)
 =======
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 90bf3549 (.)
       x: -551
       y: -259
       width: 1102
@@ -1374,6 +1405,7 @@ MonoBehaviour:
   m_defaultScale: 1
 >>>>>>> parent of 6020e5ad (.)
   m_LastWindowPixelSize: {x: 1102, y: 539}
+<<<<<<< HEAD
 =======
       x: -768
       y: -345.4
@@ -1390,12 +1422,13 @@ MonoBehaviour:
 >>>>>>> parent of 6020e5ad (.)
 =======
 >>>>>>> parent of 6020e5ad (.)
+=======
+>>>>>>> parent of 90bf3549 (.)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
-<<<<<<< Updated upstream
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1425,5 +1458,3 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
     m_OverlaysVisible: 1
-=======
->>>>>>> Stashed changes
